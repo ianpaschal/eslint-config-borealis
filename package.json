@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "ESLint rules for the Aurora framework.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "scripts": {},
+  "contributors": [
+    {
+      "name": "Ian Paschal",
+      "email": "projects@ianpaschal.com",
+      "url": "https://github.com/ianpaschal"
+    }
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
 }
